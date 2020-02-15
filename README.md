@@ -2,7 +2,7 @@
 
 ## Unix Shell
 
-I use some Unix commands in everyday work but in `Linux Survival` task, I have learned a few commands which I have not known yet. 
+I use some Unix commands in everyday work but in `Linux Survival` task, I have learned a few commands which I have not known yet.
 
 <table>
   <tr>
@@ -20,3 +20,16 @@ I use some Unix commands in everyday work but in `Linux Survival` task, I have l
 I did this task when I have studied at the Front-end course, also I use git at work.
 
 [Screens here](https://github.com/vladk96/kottans-frontend#git-collaboration)
+
+## JavaScript & NodeJS Basics. Part I
+
+<table>
+  <tr>
+    <td> <img src="./images/js_basics1.png" alt="js_basics1"/> </td>
+    <!--<td> <img src="" alt="js_basics1"/> </td>-->
+  </tr>
+  <tr>
+    <!--<td> <img src="" alt="js_basics1"/> </td>-->
+    <!--<td> <img src="" alt="js_basics1"/> </td>-->
+  </tr>
+</table>
