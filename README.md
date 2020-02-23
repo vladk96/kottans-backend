@@ -26,7 +26,7 @@ I did this task when I have studied at the Front-end course, also I use git at w
 <table>
   <tr>
     <td> <img src="./images/js_basics1.png" alt="js_basics1"/> </td>
-    <!--<td> <img src="" alt="js_basics1"/> </td>-->
+    <td> <img src="./images/js_basics2.png" alt="js_basics2"/> </td>
   </tr>
   <tr>
     <!--<td> <img src="" alt="js_basics1"/> </td>-->
